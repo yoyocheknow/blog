@@ -2,7 +2,7 @@
 
 A configurable jekyll theme for simply beautiful blogs.
 
-**Demo**: [thelehhman.com/texture](https://thelehhman.com/texture)
+**Demo**: [https://yoyocheknow.github.io/blog/](https://yoyocheknow.github.io/blog/)
 
 ![texture theme preview](/screen1.png)
 

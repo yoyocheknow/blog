@@ -19,6 +19,7 @@ texture:
   style: black
   showNav: false
   showPicker: false
+  description: 博客由CSDN转到github pages。CSDN地址：
 
   # generate social links in footer
   social_links:

@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Coding Post"
+description: 
+date:   2019-05-23 21:03:36 +0530
+categories: 面试
+---
 5月底面试了一波，总结一下面试的情况。
 
 面试的公司有阿里，百度，汽车之家，58（两次），链家，36氪。。。
